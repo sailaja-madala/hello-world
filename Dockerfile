@@ -6,5 +6,4 @@ MAINTAINER "gopibhaskar1993@gmail.com"
 # copy
 COPY ./webapp.war /usr/local/tomcat/webapps
 
-#Comment
 
